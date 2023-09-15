@@ -10,14 +10,14 @@ const links = [
     emoji: "📰",
   },
   {
-    title: "Agendar pelo WhatsApp",
+    title: "Telefone",
     url: "tel:+556239911274",
-    emoji: "💬",
+    emoji: "☎️",
   },
   {
-    title: "Telefone",
+    title: "WhatsApp",
     url: "https://api.whatsapp.com/send?phone=5562981250044",
-    emoji: "☎️",
+    emoji: "💬",
   },
 ];
 
