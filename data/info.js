@@ -1,6 +1,6 @@
 const info = {
-  name: "Your Name",
-  title: `Your Title`,
+  name: "Luciana Castro",
+  title: `Direito Médico e da Saúde`,
 };
 
 export default info;

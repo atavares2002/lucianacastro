@@ -8,13 +8,9 @@ function FooterDisclaimer() {
         Pieter Montoulieu
        */}
       <p>
-        Built with{" "}
-        <a
-          href="https://github.com/montoulieu/link-ent"
-          target="_blank"
-          className="text-lime-400"
-        >
-          LinkEnt
+        Desenvolvido e mantido por{" "}
+        <a href="https://atavares.com" target="_blank" className="text-amber-600 hover:text-amber-900">
+          atavares
         </a>
       </p>
     </div>
