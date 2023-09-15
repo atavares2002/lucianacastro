@@ -6,7 +6,7 @@ const links = [
   },
   {
     title: "Blog",
-    url: "https://moreiracastro.adv.br",
+    url: "https://blog.moreiracastro.adv.br",
     emoji: "📰",
   },
   {
